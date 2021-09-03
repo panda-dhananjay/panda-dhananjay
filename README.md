@@ -9,15 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/dhananjay714" target="blank"><img src="https://img.shields.io/twitter/follow/dhananjay714?logo=twitter&style=for-the-badge" alt="dhananjay714" /></a> </p>
 
+- 🌱 I’m currently learning **Matlab, R, Fusion 360**
+
+- 💬 Ask me about **Designer Modeling**
+
 - 📫 How to reach me **dhananjaykushwah007@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhananjay714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhananjay714" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhananjaykushwah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjaykushwah/" height="30" width="40" /></a>
-<a href="https://instagram.com/@dhananjay_kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dhananjay_kushwah" height="30" width="40" /></a>
+<a href="https://twitter.com/dhananjay714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dhananjay714/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhananjaykushwah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjaykushwah/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dhananjay_kushwah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dhananjay_kushwah/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panda-dhananjay&show_icons=true&locale=en&layout=compact" alt="panda-dhananjay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panda-dhananjay&show_icons=true&locale=en" alt="panda-dhananjay" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=panda-dhananjay&show_icons=true&locale=en" alt="panda-dhananjay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panda-dhananjay&" alt="panda-dhananjay" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=panda-dhananjay&" alt="panda-dhananjay" /></p>
